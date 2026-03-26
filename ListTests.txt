@@ -427,8 +427,7 @@ Define tests for the 22 change scenarios, in addition to the 3 given as examples
     remove(0) returns B
     set(-1, X) throws IndexOutOfBoundsException
     set(0, X) throws no Exception
-    set(1, X) throws no Exception
-    set(2, X) throws IndexOutOfBoundsException
+    set(1, X) throws IndexOutOfBoundsException
     get(-1) throws IndexOutOfBoundsException
     get(0) returns B
     indexOf(B) returns 1
@@ -459,8 +458,7 @@ Define tests for the 22 change scenarios, in addition to the 3 given as examples
     remove(0) returns A
     set(-1, X) throws IndexOutOfBoundsException
     set(0, X) throws no Exception
-    set(1, X) throws no Exception
-    set(2, X) throws IndexOutOfBoundsException
+    set(1, X) throws IndexOutOfBoundsException
     get(-1) throws IndexOutOfBoundsException
     get(0) returns A
     indexOf(A) returns 1
